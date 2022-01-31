@@ -1,0 +1,66 @@
+body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainDiv{
+    width: 595px;
+    margin: 20px auto;
+    
+}
+.head{
+    border: 1px solid black;
+    width: 595;
+    height: 80px;
+}
+
+#logo{
+    width: 170px;
+    float: left;
+}
+
+h4{
+    float: right;
+    padding: 10px 20px;
+    color: white;
+    
+    background-color: blue;
+}
+
+table {
+    width: 100%;
+    background-color: tomato;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+  }
+
+  td {
+    border: 1px solid black;
+    padding: 5px;
+  }
+#mailing{
+    width: 60px;
+}
+
+#tt,#cadd{
+    width: 250px;
+    background-color: green;
+}
+
+#ino{
+    width: 110px;
+}
+
+#billto{
+    width: 40px;
+    
+}
+
+#companyname{
+    width: 200px;
+}

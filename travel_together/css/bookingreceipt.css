@@ -1,0 +1,20 @@
+.buttonDiv{
+  margin: 0 45%;
+  background-color: whitesmoke;
+}
+input{
+  
+  background-color: blue;
+  width: 100px;
+  height: 30px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 10px;
+  font-weight: bold;
+  border: 2px solid blue;
+}
+input:hover{
+  background-color: white;
+  color: blue;
+
+}
